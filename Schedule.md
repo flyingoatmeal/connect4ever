@@ -10,8 +10,10 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
-    
+    // make wiring sim and start coding it.
+       test molding methods
+       start making part list
+       
 # 2) March 29
   - Dennis
     // stuff i will do
@@ -20,7 +22,10 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
+    // finalize parts list
+       do more coding
+       look into coding liberys 
+       test closed and bacon molding methods 
 
 # 3) April 5
   - Dennis
@@ -30,7 +35,8 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
+    // finish coding
+       start making part and put them together
 
 # 4) April 12
   - Dennis
@@ -40,7 +46,7 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
+    // transfer code from sim to project
 
 # 5) April 19
   - Dennis
@@ -50,7 +56,7 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
+    // find way and code java data bridge
 
 # 6) April 26
   - Dennis
@@ -60,7 +66,7 @@ Week starting...
   - Harriet
     // stuff i will do
   - Joey
-    // stuff i will do
+    // test and bug fix
 
 # 7) May 3
   - Dennis
